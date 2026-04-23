@@ -1,0 +1,8 @@
+ID_Pedido,Nome_Cliente,Data_Venda,Valor_Venda,Categoria
+101,João Silva,2023-01-15 00:00:00,150.0,Eletrônicos
+102,Maria Souza,Não Registrado!,200.0,Eletronicos
+103,Ana Oliveira,Não Registrado!,15000.0,Eletro
+104,João Silva,2023-01-15 00:00:00,150.0,Eletrônicos
+106,Carlos Mello,2023-01-18 00:00:00,180.0,Moda
+107,Beatriz Costa,Não Registrado!,210.0,Casa
+108,Lucas Ferreira,2023-01-20 00:00:00,190.0,Casa
